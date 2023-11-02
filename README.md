@@ -1,2 +1,1 @@
-# MSSDMPA-Net
-# The implementation code for MSSDMPA-Net
+# Implementation Code of MSSDMPA-Net
